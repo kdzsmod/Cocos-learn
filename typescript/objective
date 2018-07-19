@@ -34,4 +34,15 @@ export class controller extents{
 let con:controller;
 
 
+接口
+export interface inclass{ 
+ 属性
+ 方法
+
+}
+
+class impclass implements inclass{
+    属性赋值
+    方法实现
+} 
 
