@@ -1,5 +1,5 @@
 # Cocos-learn
 
-cocos的基本框架如下图所示
+Cocos基本框架https://blog.csdn.net/liangneo/article/details/6770543
 
 
