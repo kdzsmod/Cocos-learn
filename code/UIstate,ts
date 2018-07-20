@@ -1,0 +1,15 @@
+import { UIStateBse } from "./UIStateBase";
+
+const {ccclass,property} = cc._decorator;
+
+@ccclass
+export class UIstate extends UIStateBse{
+
+    constructor(){
+        super();
+    }
+
+    state(){}
+    action(){}
+
+}
